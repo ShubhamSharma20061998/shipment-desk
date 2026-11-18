@@ -18,6 +18,10 @@ It pairs Large Language Model (LLM) semantic understanding for unstructured cust
 - **Frontend UI:** Gradio (`app.py`) for the interactive web dashboard, live audit logs, and real-time metrics
 - **Text Extraction:** Python `re` / Regular Expressions (Deterministic timeframe and keyword parsing)
 
+## 📸 Dashboard Preview
+
+![Logistics Exception Triage Desk Dashboard](https://github.com/user-attachments/assets/3d9a44c1-a1b0-4048-998d-c290609956d7)
+
 ## ✨ Key Features
 
 - **Hybrid Decision Architecture:** Uses LangChain and Groq LLM chains for natural language classification and drafting, while keeping financial math and escalation rules 100% deterministic in Python to prevent payout hallucinations.
